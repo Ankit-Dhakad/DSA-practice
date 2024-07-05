@@ -1,3 +1,4 @@
+//Q. Input currency in rupees and output in USD
 import java.util.Scanner;
 public class ChangeCurrency {
     public static void main(String[] args) {
