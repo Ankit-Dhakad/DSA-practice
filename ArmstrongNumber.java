@@ -3,7 +3,9 @@ import java.util.*;
 public class ArmstrongNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the starting number : ");
         int a = sc.nextInt();
+        System.out.print("Enter the Ending number : ");
         int b = sc.nextInt();
         findArmstrong(a, b);
     }
