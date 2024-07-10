@@ -1,4 +1,4 @@
-//Q. Subtract the Product and Sum of Digits of an Integer;
+//Q. Subtract the Product and Sum of Digits of an Integer; (Leetcode Question)
 
 import java.util.Scanner;
 
