@@ -11,11 +11,6 @@ Marks        Grade
 <=40          Fail
 */
 
-
-
-
-
-
 package Functions;
 
 import java.util.Scanner;
