@@ -8,14 +8,21 @@ public class primeFunction {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter The Num : ");
         int num = sc.nextInt();
-        prime(num);
+        boolean ans = prime(num);
+        System.out.println(ans);
     }
 
-    static void prime(int num) {
-        if (num % 2 != 0 || num == 2) {
-            System.out.println("The Num : " + num + " : It is a prime number");
-        } else {
-            System.out.println("The Num : " + num + " : It is not a prime number");
+    static boolean prime(int num) {
+        if (num <= 1) {
+            System.out.println("It is not a prime number");
         }
+        int p = 2;
+        while (p * p <= num) {
+            if (num % p == 0) {
+                return false;
+            }
+            p++;
+        }
+        return p * p > num;
     }
 }
