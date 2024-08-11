@@ -4,7 +4,7 @@ public class pseudocode {
     public static void main(String[] args) {
         int num = 1;
 //        int num2 = 0;
-        untilX(num);
+        leapyear(num);
     }
     static void leapyear(int year){
         Scanner sc = new Scanner(System.in);
