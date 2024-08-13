@@ -17,8 +17,14 @@ public class input1 {
             arr[i] = sc.nextInt();
         }
 //        printing an array via loops
-        for (int i = 0; i < arr.length; i++) {
-            System.out.print(arr[i] + ", ");
+//        for (int i = 0; i < arr.length; i++) {
+//            System.out.print(arr[i] + ", ");
+//        }
+        // foreach loop
+        for (int num : arr) { // for every element in array, print the element
+            System.out.print(num + " "); // here num represents element of the array
         }
+//        System.out.println(arr[5]); /*index out of bound of error :- because this program is exceeding the array
+//        length limit*/
     }
 }
