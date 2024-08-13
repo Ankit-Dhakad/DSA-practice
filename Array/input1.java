@@ -1,6 +1,6 @@
-package Arrays;
+package Array;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class input1 {
     public static void main(String[] args) {
@@ -16,14 +16,15 @@ public class input1 {
         for (int i = 0; i < arr.length; i++) {
             arr[i] = sc.nextInt();
         }
+        System.out.println(Arrays.toString(arr)); //best way to print an arrays
 //        printing an array via loops
 //        for (int i = 0; i < arr.length; i++) {
 //            System.out.print(arr[i] + ", ");
 //        }
         // foreach loop
-        for (int num : arr) { // for every element in array, print the element
-            System.out.print(num + " "); // here num represents element of the array
-        }
+//        for (int num : arr) { // for every element in array, print the element
+//            System.out.print(num + " "); // here num represents element of the array
+//        }
 //        System.out.println(arr[5]); /*index out of bound of error :- because this program is exceeding the array
 //        length limit*/
     }
