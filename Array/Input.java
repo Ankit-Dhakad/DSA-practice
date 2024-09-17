@@ -9,6 +9,6 @@ public class Input {
         arr[3] = 325;
         arr[4] = 3161;
 
-        System.out.println(arr[4]); // low level type of getting input (its not recommended
+        System.out.println(arr[4]); // low level type of getting input (its not recommended)
     }
 }
