@@ -34,5 +34,9 @@ public class input1 {
             str[i] = sc.next();
         }
         System.out.println(Arrays.toString(str));
+
+        //Modify
+        str[1] = "Ankit";
+        System.out.println(Arrays.toString(str));
     }
 }
