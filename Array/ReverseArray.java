@@ -1,3 +1,6 @@
+
+
+
 package Array;
 
 import java.util.Arrays;
@@ -6,7 +9,7 @@ import java.util.Arrays;
 
 public class ReverseArray {
     public static void main(String[] args) {
-        int[] arr = {1, 2, 3, 4, 5, 6, 9};
+        int[] arr = {1, 2, 3, 4, 55, 6, 9};
 
         reverse(arr);
         System.out.println(Arrays.toString(arr));
