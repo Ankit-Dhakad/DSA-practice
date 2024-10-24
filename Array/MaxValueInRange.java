@@ -10,6 +10,14 @@ public class MaxValueInRange {
     }
 
     static int Max(int[] arr, int Start, int end) {
+        // working on edge cases here, like array being null
+        if(end < Start){
+            return -1;
+        }
+        if(arr == null){
+            return -1;
+        }
+        // searching the max value here
         int maxVal = arr[Start];
         for (int i = Start; i <= end; i++) {
             if (arr[i] > maxVal) {
