@@ -1,6 +1,6 @@
-// solved Leetcode question : https://leetcode.com/problems/build-array-from-permutation/description/
+// solved Leetcode question : https://leetcode.com/problems/running-sum-of-1d-array/description/
 
-// Build Array From Permutation
+// Running Sum Of 1d Array
 
 package Array;
 
