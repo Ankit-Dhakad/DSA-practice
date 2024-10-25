@@ -1,2 +1,2 @@
 Q1.ArrayPermutation.java Solution
-[Build Array From Permutation](https://leetcode.com/problems/running-sum-of-1d-array/description/)
+[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)
