@@ -3,3 +3,6 @@ Q1. SumOf1dArray.java
 
 Q2. Permutation.java
 [Build Array From Permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
+
+Q3. Concatenation.java Solution : 
+[Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array/description/)
