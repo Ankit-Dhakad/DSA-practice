@@ -6,3 +6,5 @@ Q2. Permutation.java Solution :
 
 Q3. Concatenation.java Solution : 
 [Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array/description/)
+
+Q4. Wealth.java Solution : [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/)
