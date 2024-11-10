@@ -11,4 +11,5 @@ Q4. Wealth.java Solution : [Richest Customer Wealth](https://leetcode.com/proble
 
 Q5. ShuffleArray.java Solution : [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array/description/)
 
-Q6. Candies.java Solution : [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
+Q6. Candies.java Solution : 
+[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
