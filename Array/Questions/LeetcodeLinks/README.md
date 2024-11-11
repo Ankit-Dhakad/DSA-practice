@@ -15,5 +15,8 @@ Q5. ShuffleArray.java Solution :
 Q6. Candies.java Solution : 
 [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)  
 
-Q7. GoodPairs.java : 
+Q7. GoodPairs.java Solution : 
 [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/)  
+
+Q8. SmallerNumber.java Solution :  
+[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)  
