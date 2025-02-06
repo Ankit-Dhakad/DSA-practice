@@ -42,8 +42,10 @@ public class ElectionOfPresident {
 
         // Collect the number of elected members in Rajya Sabha and Lok Sabha
         System.out.print("Now Tell Me How Many Elected Members are there in Rajya Sabha : ");
+
         int RajyaSabhaMembers = sc.nextInt();
         System.out.println("Okk Now Tell Me Elected Members are there in Lok Sabha : ");
+
         int LokSabhaMembers = sc.nextInt();
         int ParliamentMembers = RajyaSabhaMembers + LokSabhaMembers;
         System.out.println("The Total Elected Members of Parliament are : " + ParliamentMembers);

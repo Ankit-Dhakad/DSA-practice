@@ -10,7 +10,9 @@ public class ShuffleArray {
         System.out.println(Arrays.toString(result));
         }
 
-    public static int[] shuffle(int[] nums, int n){
+    // Method to shuffle an array based on the given parameter n
+    public static int[] shuffle(int[] nums, int n) {
+        // Create an array to hold the shuffled elements, with the same length as the input array
         int[] ans = new int[nums.length];
 
         for(int i = 0; i < n; i++){
