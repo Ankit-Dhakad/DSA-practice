@@ -1,0 +1,16 @@
+//Q. Addition Of Two Numbers
+
+import java.util.Scanner;
+
+public class AdditionOfTwoNumbers {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+
+        int addition = a + b;
+
+        System.out.println("The addition is : " + addition);
+    }
+}
