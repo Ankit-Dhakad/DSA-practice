@@ -29,3 +29,10 @@ bin/
 .DS_Store
 .idea/uiDesigner.xml
 
+### Java ###
+*.class
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+
