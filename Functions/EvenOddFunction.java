@@ -15,7 +15,7 @@ public class EvenOddFunction {
         if (num % 2 == 0) {
             System.out.println("The Number : " + num + " : It is Even");
         } else {
-            System.out.println("The Number : " + num + " : It is Odd Number");
+            System.out.println("The Number : " + num + " : It is an Odd Number");
         }
     }
 }
